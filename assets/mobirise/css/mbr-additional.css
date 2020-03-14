@@ -1094,6 +1094,9 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/wechata4033f8f98b9dec682acf8fdbe9ccf41-1000x454.png");
 }
+.cid-qTkA127IK8 H1 {
+  color: #ffffff;
+}
 .cid-rSkVTlrFtd {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1108,6 +1111,7 @@ section.lazy-placeholder:after {
 }
 .cid-rSkVTlrFtd .section-text {
   padding: 2rem 0;
+  color: #cccccc;
 }
 .cid-rSkVTlrFtd .inner-container {
   margin: 0 auto;
@@ -1551,7 +1555,7 @@ section.lazy-placeholder:after {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #5b686b;
   width: 40px;
   height: 40px;
   border-radius: 50%;
